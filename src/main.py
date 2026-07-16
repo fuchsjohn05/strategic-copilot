@@ -11,9 +11,10 @@ from scorer import score_jobs
 def main():
     print(f'[{datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")} UTC] Strategic Copilot starting')
 
-    api_key      = os.environ.get('ANTHROPIC_API_KEY', '').strip()
-    sheets_id    = os.environ.get('GOOGLE_SHEETS_ID', '').strip()
-    rapidapi_key = os.environ.get('RAPIDAPI_KEY', '').strip()
+    api_key         = os.environ.get('ANTHROPIC_API_KEY', '').strip()
+    sheets_id       = os.environ.get('GOOGLE_SHEETS_ID', '').strip()
+    adzuna_app_id   = os.environ.get('ADZUNA_APP_ID', '').strip()
+    adzuna_app_key  = os.environ.get('ADZUNA_APP_KEY', '').strip()
 
     if not api_key or not sheets_id:
         print('ERROR: ANTHROPIC_API_KEY and GOOGLE_SHEETS_ID must be set')
@@ -106,7 +107,7 @@ def main():
     print(f'{"="*40}')
 
     # ── Broad search pass ───────────────────────────────────────────────────
-    if rapidapi_key and search_terms:
+    if adzuna_app_id and adzuna_app_key and search_terms:
         print(f'\n{"="*40}')
         print('BROAD SEARCH PASS')
         print(f'{"="*40}')
@@ -117,7 +118,7 @@ def main():
             pages = term['pages']
             print(f'\nQuery: "{query}"')
 
-            jobs = fetch_broad_search(query, rapidapi_key, pages=pages)
+            jobs = fetch_broad_search(query, adzuna_app_id, adzuna_app_key, pages=pages)
             bs_fetched += len(jobs)
             print(f'  Fetched:   {len(jobs)}')
 
@@ -157,8 +158,8 @@ def main():
         print(f'  Filtered:  {bs_filtered}')
         print(f'  New:       {bs_new}')
         print(f'  Scored:    {bs_scored}')
-    elif search_terms and not rapidapi_key:
-        print('\nSkipping broad search — RAPIDAPI_KEY not set')
+    elif search_terms and not (adzuna_app_id and adzuna_app_key):
+        print('\nSkipping broad search — ADZUNA_APP_ID / ADZUNA_APP_KEY not set')
 
     print('\nWriting to Google Sheets...')
     if new_urls:
