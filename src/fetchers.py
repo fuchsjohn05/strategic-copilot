@@ -191,13 +191,24 @@ def fetch_broad_search(query: str, rapidapi_key: str) -> list:
             print(f'    JSearch HTTP {resp.status_code} for "{query}": {resp.text[:200]}')
             return []
         data = resp.json()
-        print(f'    JSearch: {len(data.get("data", []))} results')
+        raw_items = data.get('data', [])
+        print(f'    JSearch: {len(raw_items)} results')
+        # Log structure of first item once so we can verify field names
+        if raw_items:
+            first = raw_items[0]
+            if isinstance(first, dict):
+                print(f'    JSearch item keys: {list(first.keys())[:15]}')
+            else:
+                print(f'    JSearch item type: {type(first).__name__}, value: {str(first)[:200]}')
     except Exception as e:
         print(f'    JSearch exception for "{query}": {type(e).__name__}: {str(e)[:200]}')
         return []
 
     jobs = []
-    for item in data.get('data', []):
+    for item in raw_items:
+        if not isinstance(item, dict):
+            print(f'    Skipping non-dict item: {str(item)[:100]}')
+            continue
         city      = item.get('job_city') or ''
         state     = item.get('job_state') or ''
         loc_parts = [p for p in [city, state] if p]
