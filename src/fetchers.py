@@ -190,6 +190,8 @@ def fetch_broad_search(query: str, adzuna_app_id: str, adzuna_app_key: str, page
                 print(f'    Adzuna HTTP {resp.status_code} for "{query}" page {page}: {resp.text[:200]}')
                 break
             data = resp.json()
+            print(f'    Adzuna response: HTTP {resp.status_code}, count={data.get("count", "?")},'
+                  f' results={len(data.get("results", []))}')
         except Exception as e:
             print(f'    Adzuna exception for "{query}" page {page}: {type(e).__name__}: {str(e)[:200]}')
             break
