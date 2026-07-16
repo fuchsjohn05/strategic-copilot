@@ -169,10 +169,10 @@ def fetch_workday(handle: str, company_name: str, seniority_keywords: list = Non
     return jobs
 
 
-def fetch_broad_search(query: str, adzuna_app_id: str, adzuna_app_key: str, pages: int = 1) -> list:
+def fetch_broad_search(query: str, adzuna_app_id: str, adzuna_app_key: str) -> list:
     """Search US jobs via Adzuna API (developer.adzuna.com)."""
     jobs = []
-    for page in range(1, pages + 1):
+    for page in range(1, 2):
         try:
             resp = requests.get(
                 f'https://api.adzuna.com/v1/api/jobs/us/search/{page}',

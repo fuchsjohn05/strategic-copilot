@@ -113,12 +113,10 @@ def main():
         print(f'{"="*40}')
         bs_fetched = bs_filtered = bs_new = bs_scored = 0
 
-        for term in search_terms:
-            query = term['query']
-            pages = term['pages']
+        for query in search_terms:
             print(f'\nQuery: "{query}"')
 
-            jobs = fetch_broad_search(query, adzuna_app_id, adzuna_app_key, pages=pages)
+            jobs = fetch_broad_search(query, adzuna_app_id, adzuna_app_key)
             bs_fetched += len(jobs)
             print(f'  Fetched:   {len(jobs)}')
 

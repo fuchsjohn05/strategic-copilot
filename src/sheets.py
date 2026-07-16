@@ -37,11 +37,11 @@ _PROFILE_PLACEHOLDER = [
 ]
 
 _SEARCH_PLACEHOLDER = [
-    ['AI GTM transformation director OR senior director',         'Y', '1'],
-    ['GTM AI operations senior director VP',                      'Y', '1'],
-    ['sales operations AI automation director',                   'Y', '1'],
-    ['revenue operations AI strategy VP director',                'Y', '1'],
-    ['go-to-market AI transformation senior director',            'Y', '1'],
+    ['GTM AI transformation director',       'Y'],
+    ['sales operations AI director',         'Y'],
+    ['revenue operations AI VP director',    'Y'],
+    ['AI strategy GTM senior director',      'Y'],
+    ['go-to-market AI operations director',  'Y'],
 ]
 
 _COMPANIES_PLACEHOLDER = [
@@ -52,7 +52,7 @@ _COMPANIES_PLACEHOLDER = [
 _TAB_SETUP = [
     (COMPANIES_TAB, ['Company Name', 'ATS Type', 'ATS Handle', 'Active', 'Seniority Override'], _COMPANIES_PLACEHOLDER),
     (PROFILE_TAB,   ['Field', 'Value'],                                   _PROFILE_PLACEHOLDER),
-    (SEARCH_TAB,    ['Query', 'Active', 'Pages'],                         _SEARCH_PLACEHOLDER),
+    (SEARCH_TAB,    ['Query', 'Active'],                                  _SEARCH_PLACEHOLDER),
     (SCORED_TAB,    ['Job URL'],                                          []),
     (RESULTS_TAB,   RESULTS_HEADERS,                                      []),
 ]
@@ -120,10 +120,7 @@ def load_search_terms(client, spreadsheet_id: str) -> list:
     ws = _ws(client, spreadsheet_id, SEARCH_TAB)
     records = ws.get_all_records()
     return [
-        {
-            'query': str(r.get('Query', '')).strip(),
-            'pages': int(r.get('Pages', 1) or 1),
-        }
+        str(r.get('Query', '')).strip()
         for r in records
         if str(r.get('Active', '')).strip().upper() == 'Y' and str(r.get('Query', '')).strip()
     ]
