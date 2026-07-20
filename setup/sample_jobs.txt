@@ -1,0 +1,464 @@
+Senior Director - Product Operations
+
+Job Description:
+
+About the job
+Fusion Risk Management is a fast-growing, innovative company committed to fostering a supportive, inclusive environment and recognized by the Chicago Tribune and Built in Chicago for its culture!
+
+Fusion is a leading provider of cloud-based software solutions for operational resilience, encompassing risk management, third-party risk management, information technology and security risk, business continuity and disaster recovery, and crisis and incident management. Recognized by Gartner, Forrester, Deloitte, and more, we seek to build a more resilient world by empowering organizations to make data-driven decisions and helping them achieve greater overall resilience.
+
+Our flagship product, The Fusion Framework® System™, delivered on the Salesforce Lightning Platform, provides companies a North Star for operational resilience. Fusion serves mid-size organizations to Fortune 50 companies across various verticals including financial services, manufacturing, energy and utilities, retail, pharmaceuticals, and education.
+
+We are looking to add talented individuals to our team who are passionate about our vision to build a resilient world together and inspired by the challenge of solving key business problems. We seek can-do people who fit the culture, align with our core values, and prioritize continued personal and professional development. If this sounds like you, read on!
+
+Core Values 
+
+Our values are at the center of our company. They are the core ethics and principles that help define our personality as an organization and help give us focus and purpose. They are overarching, building blocks of our culture and can always be used as a consistent reference point our company-wide ethics.
+	• Trust: Earn teammates’ trust and assume positive intent; act with integrity; respect diversity of thought, skills, and background
+	• Passion: Make a difference; don’t wait until you’re asked or instructed; maintain a bias to action and impact
+	• Collaboration: Think systematically and see your role within the bigger picture; be accountable for your part of team success; put your teammates in a position to thrive
+	• Customer Centricity: Demonstrate a solid commitment to customer success by providing positive and consistent customer experiences (exhibiting professionalism, patience, respect, and knowledge); Proactively engage our customer community, seek customer feedback - be open to listening - and actively incorporate the voice of the customer into daily activities
+	• Growth: Strive for excellence; embrace change; prioritize continuous improvement 
+	The Role We’re looking for an entrepreneurial Product Operations leader to strengthen and scale the Product Ops function in a high growth environment. This role begins as a hands-on individual contributor and will grow and evolve as the function and the company grows.
+
+Reporting to our Chief Product Officer, you’ll be a key member of the Product Leadership team and partner closely across Product, Engineering, Design, and GTM Teams to improve how we decide, execute, and learn—bringing structure where it creates leverage and avoiding process for process’s sake. This is a role for someone who enjoys creating clarity in complex environments and knows how to scale discipline without slowing teams down.
+
+Enable better product decisions
+	• Improve roadmap confidence through clearer inputs, tradeoffs, and outcome tracking
+	• Help teams move from opinion-driven to evidence-informed decisions
+	• Support long term strategic planning and portfolio decisions.
+	• Support effective product discovery by enabling consistent learning, experimentation, and insight sharing across teams 
+
+Product analytics and insights
+	• Own the product analytics function, including instrumentation, data quality, and reporting standards
+	• Define and operationalize product metrics that matter (leading and lagging)
+	• Translate product, customer, and business data into actionable insights for teams and executives 
+
+Improve execution and delivery
+	• Identify and remove friction across planning, development, and launch workflows
+	• Improve delivery predictability, release quality, and operational reliability
+	• Ensure tools are well-integrated, consistently used, and clearly tied to outcomes 
+
+Release management and beta programs
+	• Define and evolve release management processes that support quality and cross-functional readiness
+	• Partner with Engineering, Product Marketing, and Customer Teams on release planning and execution
+	• Own beta and early access programs, ensuring program structure and consistency where participation is curated for impact and feedback meaningfully shapes product decisions 
+	Drive cross-functional alignment
+	• Act as a trusted partner across Product, Engineering, Design, Marketing, Sales, Services and Customer Success
+	• Clarify ownership and decision rights to prevent duplication and slowdowns
+	• Support consistent, repeatable product launches as the company scales 
+
+Build and scale the Product Ops function
+	• Define the mandate, scope, and operating model for Product Operations
+	• Establish lightweight, scalable processes that create leverage—not drag
+	• Hire and lead Product Ops team members as the organization grows 
+
+Knowledge, Skills, And Abilities 
+	• Strong product judgment and credibility with senior product and engineering leaders
+	• Comfort operating across strategy, data, and execution
+	• Practical experience owning analytics and operational processes
+	• Clear communicator who can influence without authority
+	• Strong writing skills, ability to communicate with engineering, PM and an Executive audience
+	• Passionate about working in a small team and fast-moving entrepreneurial environment 
+
+Qualifications (Education And Certifications) 
+	• 8+ years of experience in Product Operations, Product Management, Product Analytics, or related roles
+	• Understanding of contemporary software delivery methodologies (e.g., Agile, Kanban, etc.)
+	• Experience building or significantly shaping a Product Ops function 
+
+Milestones for the First Six Months 
+In One Month, You Will 
+	• Establish strong working relationships across Product, Engineering, Design, GTM, and Customer teams
+	• Gain deep understanding of product strategy, roadmap, delivery, release, and analytics practices
+	• Identify key friction points in decision-making, execution, and cross-functional alignment
+	• Deliver a concise Product Ops charter outlining mandate, priorities, and where structure will add leverage 
+
+In Three Months, You Will 
+	• Define and operationalize core product metrics; improve data quality and reporting
+	• Introduce clearer roadmap inputs, tradeoffs, and planning discipline
+	• Implement consistent release management and beta / early access processes
+	• Reduce friction in at least one critical planning, delivery, or launch workflow 
+
+In Six Months, You Will 
+	• Embed evidence-informed decision-making and consistent discovery practices
+	• Improve delivery predictability and release quality across product teams
+	• Enable repeatable, cross-functional product launches
+	• Formalize the Product Ops operating model and begin scaling the function (hiring plan or team build-out as needed) 
+
+Compensation & Benefits 
+The annual base salary range for this position is $150,000-$200,000, depending on the candidate’s experience, qualifications, and relevant skill set. The position is also eligible for an annual bonus. In addition, Fusion offers a comprehensive suite of employee benefits including but not limited to medical, dental, vision, and a 401(k) plan.
+
+Director, Product Strategy & Operations
+About the Role
+The Director, Product Strategy & Operations operates as a leader within the product organization to drive operating model and management mechanisms across Pharmacy Management, Clinical Service and Inventory Optimization technology products.
+
+This leader is the operating-model owner, not roadmap owner; establishing the cadences, frameworks, tools, workflows, and metrics that make product development consistent and constantly improving. Partnering with the Product Leadership on enablement, product hygiene, training, sharing of best practices, and maturing product management craft for the team.
+
+Reporting to the VP of Product, this leader runs the management mechanisms by which the product organization makes investment decisions, plans and commits to delivery, measures outcomes, scans and adapts to the market. This leader drive transparency in the tracking of the performance of our products and business objectives.
+
+This strategic role works closely with Product Leadership, Engineering, Customer Success, Commercial teams, and Strategic Insights and other McKesson organizations to facilitate seamless integration with our strategic objectives, drive operational efficiency and support business growth.
+
+McKesson Pharmacy System (MPS) is an independent business within the larger McKesson Commercial Strategy & Innovation (CSI) organization.
+
+Key Responsibilities
+
+Product Strategy Development
+In partnership with other orgs, drive the definition and refinement of the multi-year product and innovation strategy across the product portfolio.
+	• Integrate market trends, competitive landscapes, customer needs, and adjacent innovations to identify high-value opportunities. Translate strategic themes into actionable product recommendations that can be leveraged by the product leaders.
+	• Own the operating cadence for updating of product vision, strategy, and GTM approach.
+	• Maintain the connection from vision and strategy upstream through the 12–18-month roadmap and PI quarterly planning downstream; ensure major roadmap decisions trace back to strategic intent.
+
+Cross-Functional Planning, Resourcing & Integration
+Serve as a strategic connector across the product and design teams, fostering alignment with engineering, data insights, marketing, sales, customer success and compliance functions.
+	• Ensure emerging strategic efforts are integrated into roadmaps, portfolio planning, and annual operating cycles.
+	• Own cross-team capacity and dependency planning coordination; surface un-resourced commitments and replanning triggers early; ensure Product, Engineering, and other partner org roles are aligned on the critical path.
+	• Coordinate cross-product GTM cadence (release planning, launch readiness, product marketing, and sales enablement), ensuring launches do not conflict and commercial milestones align with delivery milestones.
+	• Own the release calendar and coordinate release timing across all product areas to avoid collisions and align customer-facing communication; integrate with Sales, Customer Success, Support, and Marketing readiness.
+
+Product Operating Model Maturity
+Own the definition and execution of the product model transformation by defining refining activities, tools, processes, data/metrics, and continuous improvement. Serve as the evangelist for product and delivery excellence, cross-functional collaboration, and innovation best practices.
+	• Own the prioritization framework methodology, scoring, and calibration cadence across product areas; ensure prioritized decisions are explainable, defensible and measurable.
+	• Own product tooling administration (across strategy, discovery, planning, design, testing, measurement); including standards and templates to ensure the toolchain reinforces rather than fragments the operating model.
+	• Own PM training, onboarding and enablement; coach PMs on prioritization, ROI sizing, experimentation, and planning craft.
+	• Influence streamlining and integration with delivery & support model with engineering and customer success orgs
+
+Product Operations Mechanisms
+Design, run, and continuously improve the operating mechanisms by which the product organization plans, decides, and delivers.
+	• Design and run the PI / quarterly planning ritual end-to-end; manage pre-read templates, coach planning quality, track commitment hit rate per cycle, and drive improvements from retrospectives.
+	• Own the 12–18-month roadmap operating discipline refresh cadence, change-control mechanism, stakeholder views, and integration with OKR tooling and customer-facing release notes.
+	• Define the functionality lifecycle review framework (enhance / maintain / sunset) to help manage product complexity; each Product Director will own their reviews.
+	• Maintain judgment on where to standardize versus where to allow team-level variation; institutionalize practices through adoption and instrumentation rather than imposing bureaucracy.
+
+Product Performance Tracking
+Partner with Product Managers to define and track performance for improving customer experience and product growth, across product lines.
+	• Own the standard for how product health is defined and reported: the canonical KPI taxonomy to ensure performance signal is comparable across products without forcing false uniformity on products with different business models.
+	• Own the product performance dashboard infrastructure across and partner with Platform and Engineering teams on the underlying instrumentation, access and visualization.
+	• Own the product performance review cadence and templates: the standard rhythm by which PMs report on their product's health to the Leadership; ensure reviews are evidence-based and decision-oriented rather than status updates.
+	• Surface early-warning signals in product performance to Product, Engineering and Customer Success leadership, and run the escalation protocol that gets the right team members involved to mitigate issues.
+	• Synthesize product performance data into actionable insights, so that reallocation, sunset, and acceleration calls are grounded in observed performance rather than narrative alone.
+
+Portfolio Insights & Strategic Reporting
+Partner with Product Leadership and CSI Leadership highlighting opportunities for optimization or investment shifts and alignment to enterprise value drivers. Leverage analytics, VOC, and market analysis to inform recommendations and drive continuous improvements in strategic planning.
+	• Own and curate portfolio-level metric definition and governance in partnership with CSI leadership.
+	• Own the portfolio review cadence and tracking of KPIs and support roll up to broader portfolio reviews.
+	• Partner with Customer Success and other teams on the feedback taxonomy, routing, and close-the-loop discipline; regularly surface rising themes across in-product, support, and survey channels to leadership.
+	• Coordinate with Sales to report on the win/loss patterns by segment, deal size, and competitor.
+	• Synthesize the competitive monitoring materials into useful and refreshable artifacts to GM and product leaders and integrate them into leadership updates
+
+Product Operations Team Leadership
+Build, lead, manage, and develop the Product Strategy & Operations function.
+	• Set the staffing plan and ramp for the Product Operations function in partnership with VP Product and HR
+	• Hire, develop, and retain a high-leverage analyst team; set priorities, coach craft, and adjudicate capacity conflicts across the operating-mechanism portfolio.
+	• Partner with senior leaders without holding line authority over their teams; secure VP Product backing visibly enough that cross-cluster process compliance is sustained.
+
+Basic Requirements (Minimum Qualifications)
+	• Bachelor’s degree in computer science, Engineering, Business, Analytics, or related field AND typically 10+ years of relevant experience in product management, strategy, or technology leadership
+	• Experience with designing and running operating mechanisms and demonstrably improving them over time and collaborating across technical and business teams, ideally within a digitally oriented or product-driven environment.
+	• Ability to design and optimize process and exercise judgment on where to standardize versus where to allow cluster-level variation to ensure repeatable speed.
+	• Experience operating cross-pillar product processes where commercial accountability is distributed across multiple product lines, buyer personas, and GTM motions.
+	• Strong cross-functional facilitation and collaboration: able to convene product, engineering, design, customer success and commercial leaders, to steer conversations, surface issues / decisions, document outcomes, and drive accountability.
+	• Demonstrated ownership of one or more of: portfolio management cadence, PI / quarterly planning ritual, prioritization framework, ROI gate, or governance across a multi-team product organization.
+	• Analytical and financial fluency governing metric definitions, challenge measurement rigor, and extract insights from data within context (without owning the analytics platform).
+	• Communication and synthesis ability to produce executive-grade materials and reporting that informs and influences leadership decisions.
+	• Track record building and managing small high-performance teams and partnering with senior leaders without holding line authority over their teams.
+	• Familiarity with building AI tools and workflows to accelerate product development velocity.
+
+Preferred Skills / Experience
+	• Advanced degree (MBA, MS in business strategy, innovation, analytics, or related).
+	• Experience designing operating mechanisms for multi-product platform organizations where the operating model itself is a transformation deliverable.
+	• Familiarity with technical product concepts, cloud platforms, data ecosystems, and API-driven models is beneficial.
+	• Experience in healthcare, pharmacy operations, supply chain, or predictive analytics domains.
+
+Working Conditions
+Traditional office or hybrid environment, depending on location. Some travel required for cross-site collaboration and customer/partner engagements.
+
+Director, Product Management Operations
+Our Company
+We care about helping people. Our purpose is to provide help and inspire confidence in our clients and communities everywhere. Our associates feel a sense of belonging in an inclusive place with an amazing history and a sharp focus on our future. Our connected culture is who we are and how we work together to achieve our strategies, accelerate our transformation, and achieve extraordinary results. It’s an exciting time to be a part of H&R Block!
+What you'll do...
+At H&R Block, your contributions will go far beyond any job description. When you join our team, you’ll add to the momentum of a forward-thinking company—one that defined an industry and is now leading its transformation. 
+Join us as we create superior digital experiences for our clients by knowing and predicting their needs while delivering unparalleled support and transparency. The selected candidate must have a passion for delivering exceptional experiences for clients, prospects, and associates that align with H&R Block’s brand promise of providing expertise and care. 
+In this role, you will be responsible for guiding the Consumer Tax product management process and ensuring the effectiveness of the Consumer Tax Product Team.  You will have program management responsibility of large strategic initiatives to help drive the success of our Consumer Tax initiatives. You will bring together experience in business strategy and vision, process management, product management and people management to drive success. You will be part of a team that believes in working fast, being accountable, and learning from mistakes. 
+In addition, this role will lead our Digital Analytics and Experimentation capability, ensuring data fidelity, experimentation rigor, and actionable insights are embedded across product development. This includes establishing enterprise standards for analytics and testing, scaling experimentation practices, and enabling product teams to make confident, data driven decisions. 
+Day to day, you'll... 
+	• Guide and mentor a team of product leaders to develop strategies, metrics, and backlogs while setting a superior standard for quality and delivery of a customer centric product  
+	• Work cross-functionally to drive improvement around the way we work leveraging the principles of Lean, Agile, and DevOps to minimize waste and maximize speed to value for our customers 
+	• Codify, standardize, and evangelize product development best practices across teams  
+	• Evangelize and lead our adoption with our Block Software Development Lifecycle (SDLC) 
+	• Establish metrics and standards for measuring velocity and success of product initiatives  
+	• Establish and evolve processes, working practices, and tools utilized by the Product Team  
+	• Coordinate across key Director level resources on the most critical projects, objectives and milestones to ensure departmental success 
+	• Enable an environment of curiosity, continuous improvement, urgency, and respect  
+	• Collaborate and influence with technical, product, and design, and other stakeholders to understand requirements and plan for future needs  
+	• Communicate product strategy, impact and risks to leadership and stakeholders  
+	• Provide strategic leadership and governance for digital analytics and experimentation across Consumer Tax products, ensuring alignment with enterprise standards and business objectives 
+	• Lead and develop a Digital Analytics & Experimentation team, including management of a Lead Program Manager responsible for execution, tooling, and operational excellence 
+	• Establish and scale experimentation best practices, success metrics, and validation standards to ensure trusted data and meaningful insights 
+	• Partner with Product, Engineering, Design, Marketing, and Risk teams to integrate experimentation and analytics into product discovery, delivery, and optimization workflows 
+	• You will report directly to the VP, Digital Tax Products and work closely with a team of Product Leaders.  
+What you'll bring to the team...
+	• Bachelor’s degree in related field or the equivalent through a combination of education and work experience. MBA or Master’s Degree preferred. 
+	• 8+ years’ experience across business strategy, program or product management disciplines  
+	• Experience in defining and evolving product and agile processes across teams and stakeholders to maximize speed, quality, agility, and flexibility 
+	• Experience in working in highly regulated environments and demonstrated experience in defining creative solutions in concert with risk and compliance stakeholders  
+	• Experience leveraging digital analytics and experimentation to drive product decisions in complex, regulated environments 
+	• Demonstrated excellent leadership skills leading and influencing cross-functional teams  
+	• A diligent attention to detail and strong technical intuition including drive towards data-led decision making and analytical mindset  
+	• Deep understanding of process management and improvement  
+	• An ability to manage time and schedules to meet deadlines and influence through persuasive written and verbal communication  
+	• Attentive and thoughtful people development and management expertise  
+	• Comfort with Aha, Azure DevOps, and Figma a plus 
+	• Certifications in Agile, Scrum, DevOps, Product Management, or Program Management a plus 
+It would be even better if you also had...
+	• MBA or Master’s Degree 
+
+Senior Principal Technical Program Manager
+Job Description
+The ideal candidate is a proactive problem solver who can anticipate risks, remove obstacles before they impact delivery, and leverage emerging AI technologies to drive efficiency, productivity, and business outcomes at scale. The successful candidate will demonstrate a strong data-driven mindset, using metrics and insights to guide decisions, and possess exceptional ability to influence without authority, driving alignment and execution across diverse stakeholder groups in a highly matrixed environment.
+
+Responsibilities
+Key Responsibilities:  
+
+• Lead and deliver large, complex, cross-functional programs from concept through execution and operationalization.
+• Define program strategy, scope, milestones, success metrics, and governance frameworks.
+• Drive alignment across engineering, product management, architecture, security, operations, and executive leadership teams.
+• Manage interdependencies across multiple workstreams, ensuring timely execution and delivery.
+• Partner with engineering and architecture teams to drive cloud transformation initiatives and modernization programs.
+• Facilitate technical decision-making and architecture reviews to ensure scalable, resilient, and cost-effective solutions.
+• Identify opportunities to leverage AI, machine learning, automation, and generative AI technologies to improve operational efficiency and productivity.
+• Build strong relationships across all levels of the organization, including executives, technical leaders, business stakeholders, and external partners.
+• Influence decision-making across engineering, product, operations, and executive leadership teams without direct reporting authority.
+• Anticipate bottlenecks, dependencies, resource constraints, and organizational challenges before they impact program outcomes.
+• Lead resolution of complex technical and organizational issues.
+• Establish and monitor program metrics, KPIs, and operational dashboards to measure progress, identify trends, and drive informed decision-making.
+• Utilize quantitative and qualitative data to assess risks, optimize resource allocation, prioritize initiatives, and improve program outcomes.
+• Drive a culture of accountability and continuous improvement through measurement, reporting, and actionable insights.
+
+ 
+
+Required Qualifications:  
+
+• Bachelor's degree in Computer Science, Engineering, Information Systems, or related technical field.
+• 12+ years of technical program management experience leading large-scale enterprise programs.
+• Proven experience delivering complex cross-functional initiatives involving multiple engineering organizations.
+• Strong understanding of cloud architecture principles, distributed systems, infrastructure, networking, security, and cloud operations.
+• Demonstrated experience driving cloud transformation, migration, modernization, or platform initiatives.
+• Experience leveraging AI, automation, and generative AI technologies to improve operational efficiency and business outcomes.
+• Exceptional written, verbal, and executive communication skills.
+• Strong stakeholder management skills with the ability to influence across all organizational levels.
+• Demonstrated ability to use a data-driven approach to program management, leveraging metrics, KPIs, operational insights, and analytics to drive decision-making.
+• Proven ability to influence without direct authority across highly matrixed organizations.
+• Demonstrated ability to anticipate risks, identify bottlenecks, and proactively drive mitigation strategies.
+• Strong analytical, technical problem-solving, and decision-making capabilities.
+• Experience presenting to executive leadership and driving strategic alignment.
+
+ 
+
+Preferred Qualifications:
+
+• Master's degree in Computer Science, Engineering, Business Administration, or related field.
+• Experience with OCI, AWS, Azure, or Google Cloud.
+• Certifications in cloud architecture, program management, agile methodologies, or AI technologies.
+• Experience leading enterprise-scale digital transformation programs.
+• Knowledge of AI/ML platforms, generative AI applications, and automation frameworks.
+• Experience working in highly matrixed global organizations.
+
+ 
+
+Core Competencies:
+
+• Strategic Thinking
+• Technical Leadership
+• Cloud Architecture Expertise
+• AI & Automation Enablement
+• Executive Presence
+• Program Execution Excellence
+• Cross-Functional Leadership
+• Stakeholder Influence
+• Influencing Without Authority
+• Data-Driven Decision Making
+• Metrics and KPI Management
+• Analytical Thinking
+• Risk Management
+• Technical Problem Solving
+• Change Management
+• Continuous Improvement
+
+ 
+
+Success Metrics 
+
+• Successful delivery of strategic cross-functional programs on schedule and within scope.
+• Measurable improvements in operational efficiency through AI and automation initiatives.
+• Reduced program risk through proactive identification and mitigation of bottlenecks.
+• Increased stakeholder satisfaction and organizational alignment.
+• Improved cloud platform adoption, reliability, scalability, and business outcomes.
+• Consistent executive confidence in program governance, reporting, and execution.
+
+Business Management & Execution Lead
+REQUISITION ID: 5314
+Location: Remote- United States
+Travel Requirement: 30%
+Inovalon was founded in 1998 on the belief that technology, and data specifically, would empower the transformation of the entire healthcare ecosystem for the better, improving both outcomes and economics. At Inovalon, we believe that when our customers are successful in their missions, healthcare improves. Therefore, we focus on empowering them with data-driven solutions. And the momentum is building.
+
+Together, as ONE Inovalon, we are a united force delivering solutions that address healthcare’s greatest needs. Through our mission-based culture of inclusion and innovation, our organization brings value not just to our customers, but to the millions of patients and members they serve.
+
+Overview: 
+
+The Business Management & Execution Lead serves as the operational backbone of the organisation. This person is responsible for running the day-to-day operational infrastructure of the business unit and building the structures, rhythms, and clarity that allow the team to execute at its best.
+This is a role for a sharp, experienced operator who is comfortable owning complex cross-functional work, influencing senior stakeholders, and driving meaningful change without always having direct authority. The right candidate brings business operations experience, strong judgment, and a genuine bias toward action over analysis.
+While embedded within a specific business unit, this role sits within the central Business Management function that reports to the SVP, Head of Business Performance. A core part of the remit is to uphold and advance enterprise-wide operating standards — driving consistency, sharing best practice across BUs, and minimising bespoke processes except where genuinely warranted by the specific needs of the unit. Success in this role is measured not only by the performance of the supported BU, but by the contribution made to raising the bar across the entire Business Performance function.
+
+Duties and Responsibilities:
+
+1. Enterprise Operating Architecture for the Business Unit
+•    Design and own the business unit's full operating system: governance model, decision rights, accountability structures, and performance management infrastructure
+•    Lead the annual planning and goal-setting process; partner with Finance and central teams to translate enterprise priorities into BU-level OKRs, resource allocation, and execution roadmaps.
+•    Define and continuously improve how the BU makes decisions — which forums exist, who owns what, how escalations work, and how tradeoffs are adjudicated — then hold the organisation to that model.
+•    Serve as the BU's principal advisor on operational strategy; anticipate structural problems before they surface and arrive with solutions, not just diagnostics.
+
+2. OKR, KPI & Performance Stewardship
+•    Own the BU's performance management architecture end-to-end: OKR design and cascade, KPI definition and instrumentation, leading/lagging indicator tracking, and quarterly retrospectives
+•    Maintain and continuously evolve executive-ready performance dashboards and scorecards; ensure the BU's performance story is clear, accurate, and decision-ready at all times
+•    Proactively identify systemic performance gaps — not just individual misses — and bring cross-functional solution proposals to BU and Business Performance leadership
+
+3. Cross-Functional Governance & Strategic Initiative Leadership
+•    Own the BU's relationship and coordination model with adjacent enterprise functions — Finance, HR, Legal, Product, Engineering, GTM, and the central Business Performance team — at a senior level
+•    Serve as the BU's primary interface into enterprise-wide programs and transformation initiatives; ensure the BU's voice is represented and its commitments are honored
+•    Lead or executive-sponsor the most complex, ambiguous, or politically sensitive initiatives within the BU — those that require senior judgment, cross-functional authority, and sustained accountability beyond what a program manager can provide
+•    Actively contribute to enterprise-wide governance standards; flag where BU-level practices diverge from central norms and drive convergence unless a BU-specific exception is clearly justified
+
+4. Executive Reporting & Strategic Narrative
+•    Own the BU's contribution to all executive and board-level performance reporting; this includes monthly operating narratives, QBR materials, investment case updates, and ad hoc C-suite readouts
+•    Translate complex operational, financial, and strategic data into concise, decision-quality narratives for CEO, Board, and investor-level audiences — not just summaries, but points of view
+•    Act as the BU leader's strategic proxy in select forums and cross-functional working groups; carry the authority to make commitments and resolve issues on the BU's behalf
+•    Ensure total consistency and integrity between BU-level reporting and enterprise-wide performance standards, definitions, and cadences
+
+5. Operational Excellence & Organizational Scalability
+•    Continuously assess and improve the BU's operational maturity; identify structural inefficiencies, governance gaps, and coordination failures — then design and implement durable fixes
+•    Build the operating playbooks, frameworks, decision templates, and institutional knowledge that allow the BU to scale without linear growth in coordination overhead
+•    Partner with Business Performance leadership to pilot, refine, and scale enterprise-wide performance capabilities.  Proactively identify opportunities to standardise and scale practices across BUs in partnership with the Head of Business Performance; resist the proliferation of bespoke processes without clear justification.
+
+
+6. Other Responsibilities
+• Maintain compliance with all applicable employment laws and company policies; partner with legal counsel and leadership to manage risk and uphold a culture of integrity.
+• Maintain compliance with company policies, procedures, and mission statement; adhere to all confidentiality requirements in all aspects of the role; and
+• Fulfill those responsibilities and/or duties that may be reasonably provided for the purpose of achieving the operational and business success of the organization.
+
+Job Requirements:
+
+•    10+ years of progressive experience in business operations, strategy & operations, management consulting (strategy/operations practice), or equivalent senior operational leadership roles
+•    Demonstrated experience operating at or supporting an SVP/EVP/C-suite level — with a track record of influencing, challenging, and aligning senior executives on strategy and execution
+•    Deep fluency in enterprise performance management: OKR design and cascade, KPI architecture, balanced scorecard frameworks, and operating cadence design at scale
+•    Strong financial acumen; experience owning or co-owning a business unit's operating plan, headcount model, and investment prioritization process
+•    Proven ability to lead complex, ambiguous, cross-functional initiatives without formal authority over the stakeholders required to execute them
+•    Executive-level communication skills: capable of preparing and presenting board-quality narratives, not just summaries — someone who writes in recommendations, not just observations
+•    Exposure to private equity-backed or high-growth transformation environments where speed, rigor, and resource discipline are simultaneously required
+•    Proficiency in enterprise planning tools, OKR platforms, BI/reporting tools (Tableau, Power BI), and project/portfolio management systems
+•    Bachelor's degree required; MBA or equivalent advanced degree strongly preferred
+•    PgMP, Lean Six Sigma Black Belt, or equivalent operational excellence certification preferred
+
+Physical Demands and Work Environment:
+•    Sedentary work (i.e. sitting for long periods of time);
+•    Exerting up to 10 pounds of force occasionally and/or negligible amount of force; 
+•    Frequently or constantly to lift, carry, push, pull or otherwise move objects and repetitive motions;
+•    Subject to inside environmental conditions; and
+•    Travel for this position may be required to Employer office locations as well as other general business-related travel.
+
+Marketing Director
+Wichita, KS
+
+Description
+Adams Brown specializes in serving clients in industries including construction and real estate, healthcare, agriculture, manufacturing, professional services, closely held business, local government and not-for-profit. In addition, we offer holistic tax, accounting, payroll, audit, financial advisory, business valuation, technology, wealth management and trust services to clients throughout the nation. With office locations throughout the Central U.S., we serve a diverse range of clients with tailored solutions to help them reach their financial goals. Visit our website to see current office locations.
+
+
+
+Position Summary
+
+Adams Brown is seeking an experienced Marketing Director to lead the firm’s marketing strategy, team and day-to-day priorities. This is an important leadership role focused on helping the firm grow strategically across key industries, services and markets.
+
+The right person for this role is a practical, growth-minded marketing leader who can see the big picture and still understand the details. They should be comfortable working with firm leadership, guiding Marketing Growth Managers, managing a team and helping the firm focus its marketing efforts on the industries, services and markets with the strongest opportunity.
+
+The Marketing Director will bring structure, direction and accountability to the firm’s marketing efforts while helping align marketing initiatives with firmwide business goals. This role works closely with partners, niche leaders and executive leadership to prioritize opportunities, support business development efforts and strengthen the firm’s overall marketing effectiveness.
+
+
+
+This role can be located in any of our office locations, to see office locations please visit https://www.adamsbrowncpa.com/about/locations/. 
+
+
+
+FLSA Status: Exempt
+
+Requirements
+Key Responsibilities
+
+
+
+Strategic Marketing Leadership
+
+Lead the development and execution of Adams Brown’s marketing strategy and annual growth initiatives
+Partner with executive leadership, partners and niche leaders to align marketing priorities with firm growth goals
+Help identify which industries, services and geographic markets offer the strongest growth opportunities
+Establish KPIs and reporting processes to measure marketing effectiveness and recommend strategic adjustments
+Oversee the marketing and business development budget, ensuring strong resource allocation and ROI
+Participate in leadership discussions related to firm growth, market opportunities and marketing priorities
+Bring strategic recommendations to leadership, not simply execute requests
+This person will help answer questions such as:
+
+Where should the firm focus its marketing time and budget?
+Which industries and services have the strongest growth opportunities?
+What campaigns, events and digital efforts will best support firm goals?
+What should marketing stop doing, start doing or improve?
+
+
+Marketing Planning & Team Leadership
+
+Lead and mentor the marketing team, fostering accountability, collaboration and continuous improvement
+Provide leadership and direction to Marketing Growth Managers and support consistent planning processes across the firm
+Create a standardized framework for industry and service-line marketing plans
+Review marketing plans to ensure they are focused, measurable and aligned with firm strategy
+Work closely with Marketing Growth Managers, niche leaders and partners to develop and execute growth-focused marketing plans
+Build strong cross-functional relationships across marketing, business development and client-serving teams
+Help prioritize marketing resources based on firm goals, market opportunities and team capacity
+
+
+Marketing Strategy & Execution
+
+Oversee the firm’s digital marketing strategy, including website management, SEO and conversion optimization
+Ensure effective use of CRM, marketing automation and analytics platforms to support reporting and campaign execution
+Support content and campaign initiatives that align with firm growth priorities and business development efforts
+Guide marketing messaging and positioning to support targeted industries, services and growth initiatives
+Oversee campaign planning and execution across digital, email, events and other marketing channels
+Evaluate marketing performance and recommend improvements based on data and results
+
+
+Sales Enablement & Business Development Support
+
+Own and optimize the firm’s client, prospect and referral databases
+Lead the pipeline management process and support winning proposal development
+Collaborate with practitioners and firm leaders to equip teams with messaging, materials and tools that support growth efforts
+Help improve lead tracking, reporting and follow-up processes across the firm
+Support business development initiatives through strategic marketing planning and coordination
+
+
+Qualifications
+
+Bachelor’s degree in Marketing, Communications, Business or related field preferred
+10+ years of progressive marketing leadership experience, preferably in professional services or B2B environments
+Experience leading strategic marketing planning and growth initiatives
+Strong leadership and team management skills
+Ability to work effectively with executives, partners and cross-functional teams
+Strong understanding of digital marketing, CRM systems, analytics and marketing automation tools
+Excellent communication, organizational and project management skills
+Data-driven mindset with the ability to translate insights into action
+
+
+Success in This Role
+
+Successful candidates will:
+
+Bring clarity and focus to the firm’s marketing priorities
+Help align marketing investments with measurable growth opportunities
+Improve consistency and accountability across marketing planning and execution
+Strengthen collaboration between marketing, leadership and business development teams
+Help marketing become a stronger driver of firm growth
